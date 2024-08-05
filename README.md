@@ -1,2 +1,2 @@
 # repo-rev
-revision
+revision.
